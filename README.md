@@ -12,7 +12,7 @@
 
 # COMPUTACIÓN GRÁFICA
 
-## Datos del alumno
+## Datos de la alumna
 
 **Nombre:** Yadira Colima Esquivel
 
